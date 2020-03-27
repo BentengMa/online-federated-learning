@@ -29,3 +29,12 @@ Federated learning can learn a model from massive client device but does not acc
   * Adam
   * Adagrade
   
+## Evaluation factor
+
+* Regret
+
+## Compared method
+
+* FedAvg
+* FedMA
+* Base online learning methods

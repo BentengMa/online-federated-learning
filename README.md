@@ -12,4 +12,20 @@ Federated learning can learn a model from massive client device but does not acc
 * CIFAR-10
 * CIFAR-100
 
+## Model
+
+* ResNet
+  * ResNet-18
+  * ResNet-101
+* VGG
+* MobileNet
+
 ## Weight update protocol
+
+* Base optimizer
+  * SGD
+    * Momentum
+    * Weight decay
+  * Adam
+  * Adagrade
+  

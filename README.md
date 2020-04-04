@@ -15,8 +15,6 @@ Federated learning can learn a model from massive client device but does not acc
 ## Model
 
 * ResNet
-  * ResNet-18
-  * ResNet-101
 * VGG
 * MobileNet
 

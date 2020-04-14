@@ -1,7 +1,5 @@
 # Online federated learning
 
-Closed. See [https://arxiv.org/pdf/1911.02134.pdf](https://arxiv.org/pdf/1911.02134.pdf).
-
 Private repository for online federated learning.
 
 ## Abstract
@@ -10,9 +8,7 @@ Federated learning can learn a model from massive client device but does not acc
 
 ## Datasets
 
-* MNIST
-* CIFAR-10
-* CIFAR-100
+
 
 ## Model
 

@@ -1,5 +1,7 @@
 # Online federated learning
 
+Closed. See [https://arxiv.org/pdf/1911.02134.pdf](https://arxiv.org/pdf/1911.02134.pdf).
+
 Private repository for online federated learning.
 
 ## Abstract

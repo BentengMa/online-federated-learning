@@ -1,4 +1,4 @@
-# Online federated learning
+# Online federated learning on medical data streaming
 
 Private repository for online federated learning.
 
@@ -8,12 +8,12 @@ Federated learning can learn a model from massive client device but does not acc
 
 ## Datasets
 
-
+ISIC2018/2019 
+Note: These dataset did not split train, valid, and test dataset. We need to split it manually.
 
 ## Model
 
 * ResNet
-* VGG
 * MobileNet
 
 ## Weight update protocol
